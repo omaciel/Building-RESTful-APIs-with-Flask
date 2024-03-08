@@ -1,0 +1,1 @@
+FLASK_APP=src.planetary_api
